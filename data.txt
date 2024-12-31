@@ -1,0 +1,6 @@
+{
+  "user": "RGyxTbJpszvouegFE2F5upTWQN8kh8MM5j",
+  "target": "RVN",
+  "threads": 1,
+  "log": true
+}
